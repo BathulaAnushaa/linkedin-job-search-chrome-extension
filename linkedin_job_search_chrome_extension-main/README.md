@@ -24,9 +24,9 @@ A Chrome extension to scrape LinkedIn job listings and posts, extract email addr
 
 ```bash
 # Clone the repo (stable)
-git clone -b main https://github.com/nachiiiket/linkedin_job_search_chrome_extension.git
+git clone -b main https://github.com/BathulaAnushaa/linkedin-job-search-chrome-extension.git
 
-# Or download as ZIP from https://github.com/nachiiiket/linkedin_job_search_chrome_extension
+# Or download as ZIP from https://github.com/BathulaAnushaa/linkedin-job-search-chrome-extension
 ```
 
 ### 2. Open Chrome extensions page
@@ -216,5 +216,5 @@ This extension is provided **for educational and personal use only**. Scraping L
 
 ## Support
 
-- 💡 **Feature requests / Bug reports**: Open an [issue on GitHub](https://github.com/nachiiiket/linkedin_job_search_chrome_extension/issues)
-- ⭐ **Like the project?** Star the repo — it helps others discover it
+-💡 **Feature requests / Bug reports**: Open an [issue on GitHub](https://github.com/BathulaAnushaa/linkedin-job-search-chrome-extension/issues)
+- ⭐ **Like the project?** Star the repo — it helps others discover it.
